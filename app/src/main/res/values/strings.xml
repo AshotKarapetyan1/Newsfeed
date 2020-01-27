@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Newsfeed</string>
+    <string name="title_home">Newsfeed</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_news_details">News Details</string>
+
+    <string name="default_error_message">Sorry something went wrong.\nPlease try again later.</string>
+    <string name="default_network_error_message">No connection.</string>
+</resources>
